@@ -5,7 +5,7 @@ Before venturing on to any data science project it is important to pre-process t
 The approach we will follow today is ask some questions and try to get those answers from the data.
 We will consider the supermarket sales data from the Kaggle dataset.
 
-<h1> Conclusion:<\h1>
+<h1> Conclusion:</h1>
 
 We used uni-variate, bi-variate and correlation analysis to perform basic EDA on the supermarket sales data.
 To summarize below are some of the findings/observations from the data:
